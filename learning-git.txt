@@ -1,0 +1,3 @@
+I have worked with git a little bit when I was a student. Now I have the
+chance to relearn the main git tools and to manage a lot better my work,
+storing it all to git.
